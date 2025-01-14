@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.split-bg{
+  background: linear-gradient(
+    to bottom,
+    white 0%,
+    white 50%,
+    hsl(0, 0%, 90%) 50%,
+    hsl(0, 0%, 90%) 100%
+  );
+}
